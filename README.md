@@ -33,6 +33,9 @@ Open http://localhost:3000.
 Your key needs the `llm` and `image` permissions (Profile → API Keys → Create API Key on
 app.callmissed.com).
 
+## Latest Resume 
+link=https://drive.google.com/file/d/1v--XLVxBiC1ATEyYcwset4QMOQ0huqD-/view?usp=sharing
+
 ## Why I built it this way
 
 - **Explicit "Generate image" mode instead of intent-sniffing text.** Parsing "draw a neon
